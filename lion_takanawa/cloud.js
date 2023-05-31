@@ -23,6 +23,6 @@
 		"NORMAL_SPHEREMAPPED"
 	],
 	"spacing": 1.0285722017288209,
-	"scale": 0.0000065,
+	"scale":  0.001,
 	"hierarchyStepSize": 1
 }
